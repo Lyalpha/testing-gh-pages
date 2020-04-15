@@ -1,3 +1,3 @@
 # my project
 
-a [test link](testline.mk).
+a [test link](testlink.md).
